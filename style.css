@@ -4,4 +4,6 @@
 }
 body {
   background-image: url(https://www.teamfortress.com/sniper_vs_spy/images/main_bg.jpg)
+  backdrop-filter: blur(21px);
+  -webkit-backdrop-filter: blur(21px);
 }
