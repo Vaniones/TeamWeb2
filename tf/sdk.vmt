@@ -1,8 +1,0 @@
-LightMappedGeneric
-{
-	$surfaceprop gravel
-}
-DarkMappedGeneric
-{
-  $surfaceprop  gravel
-}
